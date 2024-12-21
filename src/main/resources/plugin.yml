@@ -1,0 +1,6 @@
+name: EZGaps
+version: '1.0.0'
+main: me.novinity.eZGaps.EZGaps
+api-version: '1.16'
+prefix: [ EZGaps ]
+authors: [ Novinity ]
